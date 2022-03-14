@@ -3,14 +3,14 @@
 Seja Bem-vindo ao meu repositorio.
 
 Sou estudante de Lic. em Computação e possuo foco em desenvolvimento em HTML5, CSS3 e Javascript e outras tecnologias de front-end para criar aplicações web/mobile de alto nível e valor.
-
+<hr>
 <h2>🖥️ - Estudando:</h2>
    <ul>
    <li>HTML</li>
    <li>CSS</li>
    <li>Javascript</li>
 </ul>
-
+<hr>
 <div align="center">
   <a href="https://github.com/ViniciusLZS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLZS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
