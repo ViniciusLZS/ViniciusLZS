@@ -11,6 +11,7 @@ Sou estudante de Lic. em Computação e possuo foco em desenvolvimento Web e tec
    <li>Javascript</li>
    <li>React js</li>
    <li>Styled Components</li>
+   <li>Figma</li>
 </ul>
 <hr>
    
