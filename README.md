@@ -9,7 +9,8 @@ Sou estudante de Lic. em Computação e possuo foco em desenvolvimento em HTML5,
    <li>HTML</li>
    <li>CSS</li>
    <li>Javascript</li>
-   <li>React</li>
+   <li>React js</li>
+   <li>Styled Components</li>
 </ul>
 <hr>
    
