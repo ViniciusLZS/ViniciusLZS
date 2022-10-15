@@ -2,7 +2,7 @@
 
 Seja Bem-vindo ao meu repositorio.
 
-Sou estudante de Lic. em Computação e possuo foco em desenvolvimento em HTML5, CSS3, Javascript, React e outras tecnologias de front-end para criar aplicações web/mobile de alto nível e valor.
+Sou estudante de Lic. em Computação e possuo foco em desenvolvimento Web e tecnologias para front-end com objetivo de criar aplicações web/mobile de alto nível e valor.
 <hr>
 <h2>🖥️ - Estudando:</h2>
    <ul>
