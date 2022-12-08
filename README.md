@@ -6,12 +6,14 @@ Sou estudante de Lic. em Computação e possuo foco em desenvolvimento Web e tec
 <hr>
 <h2>🖥️ - Estudando:</h2>
    <ul>
-   <li>HTML</li>
-   <li>CSS</li>
-   <li>Javascript</li>
+   <li>HTML5</li>
+   <li>CSS3</li>
+   <li>Javascript-ES6</li>
    <li>React js</li>
    <li>Styled Components</li>
    <li>Figma</li>
+   <li>Laravel</li>
+   <li>Bootstrap</li>
 </ul>
 <hr>
    
