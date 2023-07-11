@@ -1,16 +1,18 @@
 # Vinícius Luiz
 
-Seja Bem-vindo ao meu repositorio.
+Seja Bem-vindo ao meu repositorio.👋
 
 Sou estudante de Lic. em Computação e possuo foco em desenvolvimento Web e tecnologias para front-end com objetivo de criar aplicações web/mobile de alto nível e valor.
 <hr>
-<h2>🖥️ - Estudando:</h2>
+<h2>🖥️ - Cada vez mais aprendo sobre:</h2>
    <ul>
    <li>HTML5</li>
    <li>CSS3</li>
    <li>Javascript-ES6</li>
-   <li>React js</li>
+   <li>React.js</li>
    <li>Styled Components</li>
+   <li>Typescript</li>
+   <li>Node.js</li>
    <li>Figma</li>
    <li>Laravel</li>
    <li>Bootstrap</li>
