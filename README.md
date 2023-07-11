@@ -4,7 +4,7 @@ Seja Bem-vindo ao meu repositorio.👋
 
 Sou estudante de Lic. em Computação e possuo foco em desenvolvimento Web e tecnologias para front-end com objetivo de criar aplicações web/mobile de alto nível e valor.
 <hr>
-<h2>🖥️ - Cada vez mais aprendo sobre:</h2>
+<h2>🖥️ - Cada vez mais aprendendo sobre:</h2>
    <ul>
    <li>HTML5</li>
    <li>CSS3</li>
