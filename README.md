@@ -5,16 +5,6 @@ Seja Bem-vindo ao meu repositorio.👋
 Sou desenvolvedor front-end e possuo foco em desenvolvimento Web e mobile com objetivo de criar aplicações web/mobile de alto nível e valor.
 <hr>
 <h2>📚️ - Cada vez mais aprendendo sobre:</h2>
-   <ul>
-      <li>Javascript-ES6</li>
-      <li>React.js</li>
-      <li>React Native</li>
-      <li>Typescript</li>
-      <li>Node.js</li>
-      <li>Styled Components</li>
-   </ul>
-<hr>
-<h2>🖥️ - Possuo conhecimento em:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
   </a>
@@ -22,6 +12,12 @@ Sou desenvolvedor front-end e possuo foco em desenvolvimento Web e mobile com ob
      <img src="https://skillicons.dev/icons?i=react" title="react" />
      <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
      <img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" />
+</p>
+<hr>
+<h2>🖥️ - Possuo conhecimento em:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+  </a>
      <img src="https://skillicons.dev/icons?i=express" title="express" />
      <img src="https://skillicons.dev/icons?i=postgres" title="postgres" />
      <img src="https://skillicons.dev/icons?i=mongodb" title="mongodb" />
